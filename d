@@ -1,0 +1,4 @@
+clothes
+electrics
+mobile
+speaker
